@@ -1,0 +1,47 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    margin-top: 10px;
+    margin-left:10px;
+    background-color: #8ab7d2;
+    cursor: pointer;
+}
+#myCheckBox {
+  width: 20px;
+  height: 20px;
+  accent-color: #4CAF50; 
+}
+visaBtn {
+  color: white; 
+  padding: 10px 20px; 
+  border: none; 
+  border-radius: 5px; 
+}
+masterCardBtn {
+  color: white; 
+  padding: 10px 20px; 
+  border: none; 
+  border-radius: 5px; 
+}
+payPalBtn {
+  color: white; 
+  padding: 10px 20px; 
+  border: none; 
+  border-radius: 5px; 
+}
+mySubmit {
+  color: white; 
+  padding: 10px 20px; 
+  border: none; 
+  border-radius: 5px; 
+}
+subResult {
+  margin-top: 20px; 
+  font-size: 18px; 
+  color: #333; 
+}
+paymentResult {
+  margin-top: 20px; 
+  font-size: 18px; 
+  color: #333; 
+}
